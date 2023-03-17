@@ -1,0 +1,2 @@
+test number:
+    cargo test problems::p{{number}}
